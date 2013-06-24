@@ -1,5 +1,5 @@
 {
-    "name": "sylius/inventory-bundle",
+    "name": "jordscream/inventory-bundle",
     "type": "symfony-bundle",
     "description": "Flexible inventory management for Symfony2 applications.",
     "keywords": ["shop", "ecommerce", "stock", "inventory", "sylius"],
